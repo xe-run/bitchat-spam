@@ -1,18 +1,22 @@
 # bitchat-spam
 **py scripts for spamming on bitchat**
 
-**With block resistance:**
+___
+
+### **With block resistance:**
   extremely random impossible to write letters are used as bitchat uses /block <nick> , impossible letters thus make blocking much more difficult
+
+___
 
 **massSpam:**
   spam x number of messages from y number of senders
 
-  python ./massSpam.py <num_of_messages> <num_of_senders> <message_content>
+  `python ./massSpam.py <num_of_messages> <num_of_senders> <message_content>`
 
 **massClient+:**
   make x number of fake clients to show up on other clients
 
-  python ./massClient+.py <num_of_fakes> 
+  `python ./massClient+.py <num_of_fakes> `
 
   
 
