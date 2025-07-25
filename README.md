@@ -4,7 +4,7 @@
 ___
 
 ### **With block resistance:**
-  extremely random impossible to write letters are used as bitchat uses /block <nick> , impossible letters thus make blocking much more difficult
+  extremely random impossible to write letters are used as bitchat uses `/block <nick>` , impossible letters thus make blocking much more difficult
 
 ___
 
